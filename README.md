@@ -17,14 +17,4 @@ VPN helps organizations adhere to these regulations, mitigating legal and financ
 Network Performance: In addition to security, VPNs also contribute to network efficiency by optimizing 
 routing and allowing bandwidth prioritization, which can improve the experience for remote users, 
 particularly when accessing high-performance applications. 
-1.1 Project Objectives 
-The primary objectives of this project are as follows: 
-To Design a Secure VPN Architecture: This project will create a VPN architecture that combines industry- 
-standard security measures, including strong encryption protocols, multi-factor authentication, and secure 
-key management. 
-To Implement and Test the VPN Solution: The VPN solution will be implemented using IPsec, an 
-established protocol that supports secure communication by authenticating and encrypting each IP packet. 
-Testing will include connectivity, security validation, and performance benchmarking. 
-To Optimize for Scalability and Performance: The VPN must support an expanding number of remote users 
-without compromising speed or security. Therefore, the project will involve the design of a scalable 
-infrastructure capable of handling increased network traffic. 
+This project focuses on designing and implementing a secure VPN infrastructure to support remote workplaces. With the increasing demand for secure communication channels, this system ensures safe, encrypted, and efficient remote access to organizational resources. The implementation leverages IPsec, OpenVPN, and WireGuard protocols to enhance data security, network performance, and user authentication.
